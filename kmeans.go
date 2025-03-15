@@ -1,6 +1,6 @@
 // Package kmeans implements the k-means clustering algorithm
 // See: https://en.wikipedia.org/wiki/K-means_clustering
-package kmeansmine
+package kmeans
 
 import (
 	"fmt"
