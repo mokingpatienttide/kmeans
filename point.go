@@ -1,4 +1,4 @@
-package kmeansmine
+package kmeans
 
 import (
 	"fmt"
