@@ -1,4 +1,4 @@
-package kmeansmine
+package kmeans
 
 // A Cluster which data points gravitate around
 type Cluster struct {
